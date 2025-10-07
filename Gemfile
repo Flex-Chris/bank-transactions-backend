@@ -47,3 +47,5 @@ group :development, :test do
   gem "rubocop", "~> 1.81"
   gem 'rspec-rails', '~> 8.0.0'
 end
+
+gem "graphql", "~> 2.5"
