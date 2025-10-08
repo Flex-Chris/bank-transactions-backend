@@ -25,6 +25,6 @@ group :development, :test do
   gem 'rspec-rails', '~> 8.0.0'
   gem 'guard-rspec', require: false
   gem 'rspec-graphql_matchers'
-  gem 'shoulda-matchers', '4.0.0.rc1'
+  gem 'shoulda-matchers', '6.5.0'
 end
 
